@@ -4,6 +4,8 @@ import Masonry from 'react-masonry-component'
 import Img from 'gatsby-image'
 import Layout from "../components/layout"
 
+console.log("hello world!)
+
 const IndexPage = ({ data }) => (
   <Layout>
     <Masonry className="showcase">
